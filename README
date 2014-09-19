@@ -1,0 +1,5 @@
+This was written to explore the [DAWG datastructure](http://en.wikipedia.org/wiki/Deterministic_acyclic_finite_state_automaton).
+
+To run: clone the project into your folder and 'python scrabble-helper.py'
+
+Enter 'a rehos' to find all word combinations of 'rehos'
